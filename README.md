@@ -1,1 +1,1 @@
-# application2
+The second application is TodoApp
